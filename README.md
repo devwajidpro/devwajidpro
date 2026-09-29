@@ -123,10 +123,20 @@ A simple and responsive Todo application created to practice modern frontend dev
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/devwajidpro/devwajidpro/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/devwajidpro/devwajidpro/gh-pages/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/devwajidpro/devwajidpro/gh-pages/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devwajidpro/devwajidpro/gh-pages/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---
