@@ -186,7 +186,7 @@ I'm currently focused on becoming a stronger **Full Stack Developer** while expa
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devwajidpro&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=devwajidpro&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
 <p align="center">
