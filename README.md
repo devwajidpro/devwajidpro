@@ -74,6 +74,16 @@ I enjoy turning ideas into practical projects while continuously improving my de
 
 ## 📌 Featured Projects
 
+### 📄 AI Resume Builder
+
+A modern AI powered resume builder built with the MERN stack, featuring resume creation and editing, customizable templates, AI enhanced professional summaries, profile image customization, and online resume sharing.
+
+**Tech:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB • OpenAI API
+
+🔗 [View Repository](https://github.com/devwajidpro/resume-builder)
+
+---
+
 ### 🌐 MegaBlog
 
 A modern blog application built with React.js, featuring reusable components, routing, authentication ready architecture, and a clean user interface.
