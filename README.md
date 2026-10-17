@@ -104,16 +104,6 @@ A Python based CLI utility designed for efficiently renaming multiple files with
 
 ---
 
-### ✅ Todo Application
-
-A simple and responsive Todo application created to practice modern frontend development and application state management.
-
-**Tech:** React.js • JavaScript • CSS
-
-🔗 [View Repository](https://github.com/devwajidpro/Todo-List)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
