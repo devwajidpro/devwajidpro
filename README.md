@@ -58,7 +58,7 @@ I enjoy turning ideas into practical projects while continuously improving my de
 ### Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" alt="Tools and Databases"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" alt="Tools and Databases"/>
 </p>
 
 ### AI & Modern Development
