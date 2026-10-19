@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Wajid Ali
 
-### `devwajidpro` • Full Stack Developer • AI Developer
+### `devwajidpro` • Full Stack Developer • AI-Powered Web Applications
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+LLM+Developer;React.js+%7C+Next.js+%7C+Python;Building+Modern+Web+%26+AI+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;Building+Practical+AI-Powered+Applications;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,64 +11,69 @@
     <img src="https://img.shields.io/badge/GitHub-devwajidpro-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/devwajidpro/">
-    <img src="https://img.shields.io/badge/LinkedIn-Wajid%20Ali-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-
-  <!--PORTFOLIO WEBSITE LINK -->
-  
-  <!-- <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-devwajidpro-000000?style=for-the-badge&logo=vercel" alt="Portfolio"/>
-  </a> -->
-  
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm **Wajid Ali**, a developer focused on building modern, responsive web applications and AI powered solutions.
+Hi, I'm **Wajid Ali**, a Full Stack Developer focused on building modern web applications, useful digital products, and AI powered features.
 
-I enjoy turning ideas into practical projects while continuously improving my development skills.
+I enjoy turning ideas into functional applications, solving real world problems, and building projects that deliver practical value.
 
-* 💻 Building with **React.js, Next.js, JavaScript & Python**
-* 🤖 Exploring **AI, LLMs, RAG & AI powered applications**
-* 🌐 Interested in **Full Stack Web Development**
-* 🧠 Learning through real world projects and experimentation
-* 🔧 Building developer tools and practical applications
-* 📚 Always learning something new
+- 💻 Building responsive web applications with React.js and Next.js
+- ⚙️ Developing backend APIs and full stack solutions with Node.js and Express.js
+- 🗄️ Working with MongoDB and database driven applications
+- 🤖 Integrating AI capabilities into web applications
+- 🚀 Building, testing, and deploying real world projects
+- 🤝 Open to freelance projects, collaborations, and development opportunities
 
-> **Build • Learn • Create • Innovate**
+**My goal:** Help businesses and individuals turn their ideas into reliable, user friendly web applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Technologies"/>
 </p>
 
-### Backend & Programming
+### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend Technologies"/>
 </p>
 
-### Database & Tools
+### Database & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" alt="Tools and Databases"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" alt="Databases and Tools"/>
 </p>
 
-### AI & Modern Development
+### AI & Application Integration
 
 <p>
-  <img src="https://img.shields.io/badge/AI-Development-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Development"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/RAG-Architecture-0F766E?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/AI%20API%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI API Integration"/>
+  <img src="https://img.shields.io/badge/LLM%20Powered%20Apps-2563EB?style=for-the-badge" alt="LLM Powered Applications"/>
 </p>
+
+---
+
+## 💼 What I Can Help You Build
+
+- 🌐 Responsive business websites and landing pages
+- ⚛️ React.js and Next.js web applications
+- ⚙️ REST APIs and backend functionality
+- 🔐 Authentication and database integration
+- 🐛 Website bug fixes and existing project improvements
+- 🤖 AI API integration and AI powered application features
+- 🚀 Web application deployment and configuration
+
+Have a project idea? Feel free to connect with me.
 
 ---
 
@@ -76,17 +81,18 @@ I enjoy turning ideas into practical projects while continuously improving my de
 
 ### 📄 AI Resume Builder
 
-A modern AI powered resume builder built with the MERN stack, featuring resume creation and editing, customizable templates, AI enhanced professional summaries, profile image customization, and online resume sharing.
+An AI powered resume builder built with the MERN stack that helps users create, customize, and share professional resumes. Features include editable resume sections, customizable templates, accent colors, AI enhanced professional summaries, and public resume sharing.
 
-**Tech:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB • OpenAI API
+**Tech:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB • AI API
 
-🔗 [View Repository](https://github.com/devwajidpro/resume-builder)
+🔗 [View Repository](https://github.com/devwajidpro/Resume-builder)  
+🌐 [Live Demo](https://resume-builder-eight-topaz-53.vercel.app/)
 
 ---
 
 ### 🌐 MegaBlog
 
-A modern blog application built with React.js, featuring reusable components, routing, authentication ready architecture, and a clean user interface.
+A blog application built with React.js, featuring reusable components, routing, content focused UI, and an authentication ready architecture.
 
 **Tech:** React.js • JavaScript • CSS
 
@@ -96,7 +102,7 @@ A modern blog application built with React.js, featuring reusable components, ro
 
 ### 🛠️ Smart Rename
 
-A Python based CLI utility designed for efficiently renaming multiple files with features such as prefixes, suffixes, numbering, find/replace, case conversion, recursive processing, preview mode, and undo history.
+A Python command-line utility for bulk file renaming, designed to make file organization easier. Planned and implemented capabilities include flexible naming patterns, prefixes, suffixes, find-and-replace, preview mode, and undo support.
 
 **Tech:** Python • argparse • pathlib • JSON
 
@@ -104,18 +110,23 @@ A Python based CLI utility designed for efficiently renaming multiple files with
 
 ---
 
+## 🎯 Current Focus
+
+- Building production ready full stack applications
+- Improving API design, validation, error handling, and application security
+- Strengthening testing, deployment, and debugging workflows
+- Integrating AI capabilities into useful web products
+- Growing my portfolio and working with freelance clients
+
+I believe the best way to grow as a developer is to build practical solutions, learn from real problems, and continuously improve the quality of my work.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=devwajidpro" height="180" alt="GitHub Stats"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devwajidpro&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=devwajidpro&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -124,74 +135,34 @@ A Python based CLI utility designed for efficiently renaming multiple files with
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/devwajidpro/devwajidpro/gh-pages/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/devwajidpro/devwajidpro/gh-pages/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/devwajidpro/devwajidpro/gh-pages/github-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devwajidpro/devwajidpro/gh-pages/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devwajidpro/devwajidpro/gh-pages/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/devwajidpro/devwajidpro/gh-pages/github-snake.svg" alt="GitHub Contribution Snake"/>
   </picture>
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🤝 Let's Work Together
 
-```text
-Full Stack Development
-        ↓
-React.js + Next.js
-        ↓
-Node.js + APIs
-        ↓
-Databases
-        ↓
-Python
-        ↓
-AI + LLMs
-        ↓
-RAG + AI Applications
-```
-
-I'm currently focused on becoming a stronger **Full Stack Developer** while expanding into **AI and LLM-powered application development**.
-
----
-
-## 🤝 Let's Connect
+I'm open to freelance opportunities, interesting projects, and collaborations where I can help build useful web applications.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devwajidpro/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-
-  <!--PORTFOLIO WEBSITE LINK
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>-->
-  
   <a href="https://www.fiverr.com/devwajidpro">
-    <img src="https://img.shields.io/badge/Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+    <img src="https://img.shields.io/badge/Fiverr-My%20Profile-1DBF73?style=for-the-badge&logo=fiverr" alt="Fiverr"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~01756bc606e240601e">
-    <img src="https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+    <img src="https://img.shields.io/badge/Upwork-My%20Profile-14A800?style=for-the-badge&logo=upwork" alt="Upwork"/>
   </a>
 </p>
-
----
-
-
 
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b>
 </p>
 
 <p align="center">
-  <i>Building today. Learning every day. Creating for tomorrow.</i>
+  <i>Building practical solutions. Learning continuously. Creating meaningful products.</i>
 </p>
-
