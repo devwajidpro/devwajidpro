@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wajid Ali
 
-### `devwajidpro` • Full Stack Developer • AI-Powered Web Applications
+### `devwajidpro` • Full Stack Developer • AI Powered Web Applications
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;Building+Practical+AI-Powered+Applications;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
