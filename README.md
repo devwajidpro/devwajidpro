@@ -102,7 +102,7 @@ A blog application built with React.js, featuring reusable components, routing, 
 
 ### 🛠️ Smart Rename
 
-A Python command-line utility for bulk file renaming, designed to make file organization easier. Planned and implemented capabilities include flexible naming patterns, prefixes, suffixes, find-and-replace, preview mode, and undo support.
+A Python command line utility for bulk file renaming, designed to make file organization easier. Planned and implemented capabilities include flexible naming patterns, prefixes, suffixes, find-and-replace, preview mode, and undo support.
 
 **Tech:** Python • argparse • pathlib • JSON
 
