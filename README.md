@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wajid Ali
+# 👋 Hi, I am Wajid Ali
 
 ### `devwajidpro` • Full Stack Developer • AI Powered Web Applications
 
