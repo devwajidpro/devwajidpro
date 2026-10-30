@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Wajid Ali**, a Full Stack Developer focused on building modern web applications, useful digital products, and AI powered features.
+Hi, I am **Wajid Ali**, a Full Stack Developer focused on building modern web applications, useful digital products, and AI powered features.
 
 I enjoy turning ideas into functional applications, solving real world problems, and building projects that deliver practical value.
 
