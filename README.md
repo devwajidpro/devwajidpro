@@ -30,7 +30,7 @@ I enjoy turning ideas into functional applications, solving real world problems,
 - 🚀 Building, testing, and deploying real world projects
 - 🤝 Open to freelance projects, collaborations, and development opportunities
 
-**My goal:** Help businesses and individuals turn their ideas into reliable, user friendly web applications.
+**My goal:** Help businesses and individuals turn their ideas into reliable, user friendly web apps.
 
 ---
 
