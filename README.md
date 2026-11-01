@@ -28,7 +28,7 @@ I enjoy turning ideas into functional applications, solving real world problems,
 - 🗄️ Working with MongoDB and database driven applications
 - 🤖 Integrating AI capabilities into web applications
 - 🚀 Building, testing, and deploying real world projects
-- 🤝 Open to freelance projects, collaborations, and development opportunities
+- 🤝 Open to freelance projects, collaboration, and development opportunities
 
 **My goal:** Help businesses and individuals turn their ideas into reliable, user friendly web apps.
 
