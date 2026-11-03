@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-Hi, I am **Wajid Ali**, a Full Stack Developer focused on building modern web applications, useful digital products, and AI powered features.
+Hi, I am **Wajid Ali**, a Full Stack Developer focused on building modern web applications, useful digital products , and AI powered features.
 
 I enjoy turning ideas into functional applications, solving real world problems, and building projects that deliver practical value.
 
@@ -94,7 +94,7 @@ An AI powered resume builder built with the MERN stack that helps users create, 
 
 A blog application built with React.js, featuring reusable components, routing, content focused UI, and an authentication ready architecture.
 
-**Tech:** React.js • JavaScript • CSS
+**Tech:** React.js • JavaScript • Tailwind CSS
 
 🔗 [View Repository](https://github.com/devwajidpro/appwriteblog)
 
