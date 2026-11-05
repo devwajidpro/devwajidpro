@@ -126,7 +126,7 @@ I believe the best way to grow as a developer is to build practical solutions, l
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=devwajidpro" height="180" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=devwajidpro&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=devwajidpro&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 ---
