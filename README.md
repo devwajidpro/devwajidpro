@@ -1,12 +1,15 @@
-# 👋 Hi, I am Wajid Ali
+# 👋 Hi, I'm Wajid Ali
 
-### `devwajidpro` • Full Stack Developer • AI Powered Web Applications
+### Full Stack Developer | Next.js | React | Node.js | AI-Powered Web Applications
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;Building+Practical+AI-Powered+Applications;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;Building+AI-Powered+Web+Applications;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <a href="https://www.devwajidpro.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website"/>
+  </a>
   <a href="https://github.com/devwajidpro">
     <img src="https://img.shields.io/badge/GitHub-devwajidpro-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
@@ -19,18 +22,20 @@
 
 ## 🚀 About Me
 
-Hi, I am **Wajid Ali**, a Full Stack Developer focused on building modern web applications, useful digital products , and AI powered features.
+I'm **Wajid Ali**, a Full Stack Developer passionate about building modern, scalable, and user-friendly web applications.
 
-I enjoy turning ideas into functional applications, solving real world problems, and building projects that deliver practical value.
+I enjoy transforming ideas into practical digital products, developing reliable backend systems, and integrating AI capabilities into web applications.
 
-- 💻 Building responsive web applications with React.js and Next.js
-- ⚙️ Developing backend APIs and full stack solutions with Node.js and Express.js
-- 🗄️ Working with MongoDB and database driven applications
-- 🤖 Integrating AI capabilities into web applications
-- 🚀 Building, testing, and deploying real world projects
-- 🤝 Open to freelance projects, collaboration, and development opportunities
+- 💻 Building modern web interfaces with **React.js and Next.js**
+- ⚙️ Developing backend APIs with **Node.js and Express.js**
+- 🗄️ Working with **MongoDB** and database-driven applications
+- 🤖 Integrating AI APIs and LLM-powered features into web products
+- 🚀 Building, testing, and deploying real-world applications
+- 🤝 Open to freelance projects, collaborations, and development opportunities
 
-**My goal:** Help businesses and individuals turn their ideas into reliable, user friendly web apps.
+**My goal:** Help businesses and individuals turn their ideas into reliable, user-friendly web applications.
+
+🌐 **Portfolio:** [www.devwajidpro.com](https://www.devwajidpro.com)
 
 ---
 
@@ -39,26 +44,26 @@ I enjoy turning ideas into functional applications, solving real world problems,
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js and Tailwind CSS"/>
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Node.js, Express.js and Python"/>
 </p>
 
 ### Database & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" alt="Databases and Tools"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" alt="MongoDB, Git, GitHub and VS Code"/>
 </p>
 
-### AI & Application Integration
+### AI & Integrations
 
 <p>
   <img src="https://img.shields.io/badge/AI%20API%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI API Integration"/>
-  <img src="https://img.shields.io/badge/LLM%20Powered%20Apps-2563EB?style=for-the-badge" alt="LLM Powered Applications"/>
+  <img src="https://img.shields.io/badge/LLM%20Powered%20Applications-2563EB?style=for-the-badge" alt="LLM Powered Applications"/>
 </p>
 
 ---
@@ -66,14 +71,14 @@ I enjoy turning ideas into functional applications, solving real world problems,
 ## 💼 What I Can Help You Build
 
 - 🌐 Responsive business websites and landing pages
-- ⚛️ React.js and Next.js web applications
+- ⚛️ Modern React.js and Next.js applications
 - ⚙️ REST APIs and backend functionality
 - 🔐 Authentication and database integration
+- 🤖 AI API integration and AI-powered features
 - 🐛 Website bug fixes and existing project improvements
-- 🤖 AI API integration and AI powered application features
 - 🚀 Web application deployment and configuration
 
-Have a project idea? Feel free to connect with me.
+Have an idea? Let's turn it into a working product!
 
 ---
 
@@ -81,52 +86,62 @@ Have a project idea? Feel free to connect with me.
 
 ### 📄 AI Resume Builder
 
-An AI powered resume builder built with the MERN stack that helps users create, customize, and share professional resumes. Features include editable resume sections, customizable templates, accent colors, AI enhanced professional summaries, and public resume sharing.
+An AI-powered resume builder built with the MERN stack that helps users create, customize, and share professional resumes. Includes editable resume sections, customizable templates, accent colors, AI-enhanced professional summaries, and public resume sharing.
 
-**Tech:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB • AI API
+**Technologies:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB • AI API
 
-🔗 [View Repository](https://github.com/devwajidpro/Resume-builder)  
+🔗 [Repository](https://github.com/devwajidpro/Resume-builder)  
 🌐 [Live Demo](https://resume-builder-eight-topaz-53.vercel.app/)
 
 ---
 
-### 🌐 MegaBlog
+### 🌐 Personal Portfolio Website
 
-A blog application built with React.js, featuring reusable components, routing, content focused UI, and an authentication ready architecture.
+A responsive developer portfolio built with Next.js, TypeScript, and Tailwind CSS to showcase my skills, projects, and web development experience.
 
-**Tech:** React.js • JavaScript • Tailwind CSS
+**Technologies:** Next.js • React.js • TypeScript • Tailwind CSS
 
-🔗 [View Repository](https://github.com/devwajidpro/appwriteblog)
+🔗 [Repository](https://github.com/devwajidpro/Portfolio-website)  
+🌐 [Live Website](https://www.devwajidpro.com)
 
 ---
 
-### 🛠️ Smart Rename
+### 📝 MegaBlog
 
-A Python command line utility for bulk file renaming, designed to make file organization easier. Planned and implemented capabilities include flexible naming patterns, prefixes, suffixes, find and replace, preview mode, and undo support.
+A blogging application built with React.js, featuring reusable components, state management, routing, and content-focused user interfaces.
 
-**Tech:** Python • argparse • pathlib • JSON
+**Technologies:** React.js • JavaScript • Tailwind CSS • Appwrite • Redux
 
-🔗 [View Repository](https://github.com/devwajidpro/Smart_Rename)
+🔗 [Repository](https://github.com/devwajidpro/appwriteblog)
+
+---
+
+### 🐍 Smart Rename
+
+A Python command-line utility for bulk file renaming and file organization, with flexible naming options and undo support.
+
+**Technologies:** Python • argparse • pathlib • JSON
+
+🔗 [Repository](https://github.com/devwajidpro/Smart_Rename)
 
 ---
 
 ## 🎯 Current Focus
 
-- Building production ready full stack applications
-- Improving API design, validation, error handling, and application security
-- Strengthening testing, deployment, and debugging workflows
-- Integrating AI capabilities into useful web products
-- Growing my portfolio and working with freelance clients
-
-I believe the best way to grow as a developer is to build practical solutions, learn from real problems, and continuously improve the quality of my work.
+- Building production-ready full stack applications
+- Improving API design, validation, and error handling
+- Strengthening application security and testing
+- Exploring AI integrations and LLM-powered applications
+- Improving deployment and debugging workflows
+- Growing my developer portfolio and freelance career
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=devwajidpro" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=devwajidpro&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://ghstats.dev/api/card?username=devwajidpro" height="180" alt="Wajid Ali GitHub Statistics"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=devwajidpro&hide_border=true" height="180" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -137,7 +152,7 @@ I believe the best way to grow as a developer is to build practical solutions, l
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devwajidpro/devwajidpro/gh-pages/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devwajidpro/devwajidpro/gh-pages/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/devwajidpro/devwajidpro/gh-pages/github-snake.svg" alt="GitHub Contribution Snake"/>
+    <img src="https://raw.githubusercontent.com/devwajidpro/devwajidpro/gh-pages/github-snake.svg" alt="GitHub Contribution Activity"/>
   </picture>
 </p>
 
@@ -145,9 +160,12 @@ I believe the best way to grow as a developer is to build practical solutions, l
 
 ## 🤝 Let's Work Together
 
-I'm open to freelance opportunities, interesting projects, and collaborations where I can help build useful web applications.
+I'm open to freelance opportunities, interesting projects, and collaborations. If you need help building a modern website, full stack application, or AI-powered web product, feel free to reach out.
 
 <p align="center">
+  <a href="https://www.devwajidpro.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/devwajidpro/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
